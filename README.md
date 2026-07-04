@@ -2,6 +2,8 @@
 
 SurveyChartsStudio is a client-side, single-page web app for turning survey responses into high-contrast charts that stay readable in print, photocopies, and grayscale exports. It runs entirely in the browser, so there is no backend, database, or account setup required.
 
+
+ live url link: https://surveychartsstudio.netlify.app/
 ## What It Does
 
 The app focuses on a few practical survey workflows:
